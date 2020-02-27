@@ -7,13 +7,15 @@ TODO
 - CONVERT TO TYPESCRIPT
 
 Topics covered in the application will include:
-Network architecture, design principles and methodology
-Protocol layering
+Protocol layers and other design principles
 Physical and data link layer protocols
-TCP/IP implementation
-Unicast and multicast routing
-Congestion control and flow control
 Naming and addressing
-Application level network protocols
-Network Security
-Internet Performance
+TCP/IP implementation
+Internet routing
+Congestion control
+Applications
+Network security
+Wireless and cellular networks
+(Mobile) Web
+Cloud computing and data centers
+Software Defined Networking (SDN)

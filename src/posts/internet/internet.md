@@ -13,7 +13,7 @@ date: "2020-02-24"
 - UDP (User Datagram Protocol)
 
   - Has it own header.
-  - Inside this header, it will have a port number. Every application will have its own port number once installed. When a packet arrives to the computer, the OS will look inside its header and deliever it to the application with the corresponding port number.
+  - Inside this header, it will have a port number. Every application will have its own port number once installed. When a packet arrives to the computer, the OS will look inside its header and deliver it to the application with the corresponding port number.
   - UDP will have a checksum to verify the data has correctly come in.
   - No mechanism to fix the data or request a new copy when corrupted
   - IP -> Gets the packet to the right computer

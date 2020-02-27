@@ -5,9 +5,9 @@ date: "2020-02-24"
 
 ## Computer Networks
 
-- Latency - Time it takes for a packet to be transfered across a network.
-- Throughput - The quantity of data being send and recieved within a unit of time.
-- Bandwidth - The maxmium amount of data that can travel through a channel.
+- Latency - Time it takes for a packet to be transferred across a network.
+- Throughput - The quantity of data being send and received within a unit of time.
+- Bandwidth - The maximum amount of data that can travel through a channel.
 
 LAN (e.g. Ethernet)
 
