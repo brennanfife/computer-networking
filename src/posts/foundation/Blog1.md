@@ -1,6 +1,6 @@
 ---
 title: "Blog 1"
-date: "2020-02-24"
+date: "02-24-2020"
 ---
 
 ## Foundation
@@ -81,3 +81,5 @@ date: "2020-02-24"
   - Below IP, we have the hardware layers
   - IP ties then together, enables inter-operation and provides a unified interface to transport protocols.
   - Protocols offer 2 interfaces, which includes Service interface (defines the operations that local objects can perform on protocol, include HTTP's GET and POST. Tells what the higher layer can expect) and Peer interface (Defines how the other end interprets a message, including the format of GET)
+  - Each higher layer relies on the lower layer and makes some assumptions e.g. HTTP relies on TCP and assumes that when it hands data to TCP, TCP will deliver it reliably. TCP relies on IP to router packets from one host to another.
+  - Inside the layering diagram, it comes out looking like an hourglass, with IP being the narrow waist
